@@ -2,6 +2,8 @@
 
 ## *Hanna Klempach*
 
+
+
 ## Personal details
 *Date of birth* : February 20, 1987
 
@@ -39,7 +41,7 @@ Basic knowledge of *architecture of operation systems* and *technical arrangemen
 
 ### JavaScript:
 
-function searchCurrentValue(array, index) {
+```function searchCurrentValue(array, index) {
 
     for (let j = 0; j < array[index].possibleVariants.length; j++) {
         if (checkElements(array, index, array[index].possibleVariants[j]) == true) {
@@ -68,15 +70,15 @@ function searchCurrentValue(array, index) {
         }
     }
 }
-
+```
 ## Educational background
 
 ### Higher education
 
 Time period | Educational Institution, faculty | Major | Qualification(s)
 ----------- | -------------------------------- | ----- | ---------------- 
-*2005-2010* | Minsk State Linguistic University, English faculty | Modern foreign languages (teaching) | Linguist. Teacher of English and Italian. Specialist in applied linguistics.
-*2018 - present* | Institute of Information Technologies (Belarusian State University of Informatics and Radioelectronics), Refresher and Retraining Department (distance learning) | Software of information systems | software engineer.  
+*2005-2010* | Minsk State Linguistic University, English faculty | Modern foreign languages (teaching) | Linguist. Teacher of English and Italian. Specialist in applied linguistics
+*2018 - present* | Institute of Information Technologies (Belarusian State University of Informatics and Radioelectronics), Refresher and Retraining Department (distance learning) | Software of information systems | Software engineer  
 
 ### Online courses
 
@@ -101,8 +103,7 @@ Time period | Educational Institution, faculty | Major | Qualification(s)
 
 ## Foreign languages
 
-* Proficient in *English*;
-
+* **Proficient** in *English*;
 * *Italian*: basic.
 
 ## Employment history
