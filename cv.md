@@ -77,7 +77,7 @@ function searchCurrentValue(array, index) {
 ### Higher education
 
 Time period | Educational Institution, faculty | Major | Qualification(s)
------------ | -------------------------------- | ----- | ---------------- 
+-------------- | -------------------------------- | ----- | ---------------- 
 *2005-2010* | Minsk State Linguistic University, English faculty | Modern foreign languages (teaching) | Linguist. Teacher of English and Italian. Specialist in applied linguistics
 *2018 - present* | Institute of Information Technologies (Belarusian State University of Informatics and Radioelectronics), Refresher and Retraining Department (distance learning) | Software of information systems | Software engineer  
 
@@ -110,7 +110,7 @@ Time period | Educational Institution, faculty | Major | Qualification(s)
 ## Employment history
 
 Time period | Place of work, position
------------ | -----------------------
+-------------- | -----------------------
 *2010-2011* | Minsk State Linguistic University, Institute for Advanced Studies and Retraining, trainee teacher of English;
 *2011-2015* | School #1, Bobruisk, teacher of English;
 *2013-2017* | StepbyStep (later RightStart) school, teacher of English;
