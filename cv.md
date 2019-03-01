@@ -83,12 +83,12 @@ Time period | Educational Institution, faculty | Major | Qualification(s)
 
 ### Online courses
 
-#### codecadamy.com (HannaKlempach2206764908): 
+#### codecadamy.com ([HannaKlempach2206764908](https://www.codecademy.com/HannaKlempach2206764908#completed)): 
 
 * Introduction to HTML;
 * Learn CSS.
 
-#### htmalacedemy.ru (id861275):
+#### htmalacedemy.ru ([id861275](https://htmlacademy.ru/profile/id861275)):
 
 * HTML basics;
 * CSS basics; 
