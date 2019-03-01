@@ -73,55 +73,37 @@ function searchCurrentValue(array, index) {
 
 ### Higher education
 
-*2005-2010*: Minsk State Linguistic University, English faculty.
-
-Major in modern foreign languages (teaching).
-
-Qualifications: Linguist. Teacher of English and Italian. Specialist in applied linguistics. 
-
-*2018 - present*: Institute of Information Technologies (Belarusian State University of Informatics and Radioelectronics), Refresher and Retraining Department (distance learning).
-
-Major in software of information systems.
-
-Qualification: software engineer.  
+Time period | Educational Institution, faculty | Major | Qualification(s)
+----------- | -------------------------------- | ----- | ---------------- 
+*2005-2010* | Minsk State Linguistic University, English faculty | Modern foreign languages (teaching) | Linguist. Teacher of English and Italian. Specialist in applied linguistics.
+*2018 - present* | Institute of Information Technologies (Belarusian State University of Informatics and Radioelectronics), Refresher and Retraining Department (distance learning) | Software of information systems | software engineer.  
 
 ### Online courses
 
 #### codecadamy.com (HannaKlempach2206764908): 
 
-Introduction to HTML;
-
-Learn CSS.
+* Introduction to HTML;
+* Learn CSS.
 
 #### htmalacedemy.ru (id861275):
 
-HTML basics;
-
-CSS basics; 
-
-JavaScript basics;
-
-Construction of grids;
-
-Decorative effects;
-
-Text processing;
-
-Workshops;
-
-JavaScript in a browser;
-
-SVG;
-
-Dynamic effects;
-
-Preprocessor LESS.
+* HTML basics;
+* CSS basics; 
+* JavaScript basics;
+* Construction of grids;
+* Decorative effects;
+* Text processing;
+* Workshops;
+* JavaScript in a browser;
+* SVG;
+* Dynamic effects;
+* Preprocessor LESS.
 
 ## Foreign languages
 
-Proficient in *English*;
+* Proficient in *English*;
 
-*Italian*: basic.
+* *Italian*: basic.
 
 ## Employment history
 
