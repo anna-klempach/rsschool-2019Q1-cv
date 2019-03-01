@@ -125,10 +125,14 @@ Proficient in *English*;
 
 ## Employment history
 
-*2010-2011*: Minsk State Linguistic University, Institute for Advanced Studies and Retraining, trainee teacher of English;
+Time period | Place of work, position
 
-*2011-2015*: School #1, Bobruisk, teacher of English;
+----------- | -----------------------
 
-*2013-2017*: StepbyStep (later RightStart) school, teacher of English;
+*2010-2011* | Minsk State Linguistic University, Institute for Advanced Studies and Retraining, trainee teacher of English;
 
-*2015-present*: Gymnasium #2, Bobruisk,  teacher of English (currently on maternity leave).
+*2011-2015* | School #1, Bobruisk, teacher of English;
+
+*2013-2017* | StepbyStep (later RightStart) school, teacher of English;
+
+*2015-present* | Gymnasium #2, Bobruisk,  teacher of English (currently on maternity leave).
