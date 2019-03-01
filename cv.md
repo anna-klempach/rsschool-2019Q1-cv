@@ -2,7 +2,7 @@
 
 ## *Hanna Klempach*
 
-![HannaKlempach Photo](https://drive.google.com/file/d/17jZ_q-G4RB8pqb7dkzmZWQPT_L-9iSjJ/view?usp=sharing)
+![HannaKlempach Photo](https://avatars3.githubusercontent.com/u/47563276?s=400&u=5cfee861b2f3ea181a9552e8704499c37912b6cc&v=4)
 
 ## Personal details
 *Date of birth* : February 20, 1987
