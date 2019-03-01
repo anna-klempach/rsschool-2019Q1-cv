@@ -29,13 +29,10 @@ So, why am I here? I have always been interested in IT. When at university, I sp
 
 ## Skills
 
-*Javascript / HTML / CSS* : intermediate;
-
-*C / C++*: intermediate;
-
-*Windows OS*: basic;
-
-Basic knowledge of *architecture of operation systems* and *technical arrangement of information systems*.
+* *Javascript / HTML / CSS* : intermediate;
+* *C / C++*: intermediate;
+* *Windows OS*: basic;
+* Basic knowledge of *architecture of operation systems* and *technical arrangement of information systems*.
 
 ## Examples of code
 
