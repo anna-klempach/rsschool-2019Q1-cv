@@ -2,7 +2,7 @@
 
 ## *Hanna Klempach*
 
-
+![HannaKlempach Photo](https://drive.google.com/file/d/17jZ_q-G4RB8pqb7dkzmZWQPT_L-9iSjJ/view?usp=sharing)
 
 ## Personal details
 *Date of birth* : February 20, 1987
@@ -41,7 +41,8 @@ Basic knowledge of *architecture of operation systems* and *technical arrangemen
 
 ### JavaScript:
 
-```function searchCurrentValue(array, index) {
+```js 
+function searchCurrentValue(array, index) {
 
     for (let j = 0; j < array[index].possibleVariants.length; j++) {
         if (checkElements(array, index, array[index].possibleVariants[j]) == true) {
