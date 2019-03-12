@@ -177,7 +177,7 @@ table.skills tr:last-of-type td {
     align-items: center;
     align-self: flex-start;
     width: 1020px;
-    height: 2330px;
+    height: 2350px;
 }
 
 div.navigation {
@@ -187,7 +187,7 @@ div.navigation {
     align-items: flex-start;
     align-self: flex-start;
     width: 200px;
-    height: 2330px;
+    height: 2350px;
     padding-top: 20px;
     background-image: linear-gradient(rgba(53, 134, 121, 0.9) 85%, rgba(53, 134, 121, 0) 100%);
 }
