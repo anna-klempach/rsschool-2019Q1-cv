@@ -123,8 +123,9 @@ header:before {
     content: "";
     display: block;
     position: absolute;
-    left: 300px;
+    left: 50%;
     top: 20px;
+    transform: translateX(-50%);
     width: 500px;
     height: 680px;
     background-image: url("./Assets/Images/photo.jpg");
@@ -186,7 +187,7 @@ div.navigation {
     align-items: flex-start;
     align-self: flex-start;
     width: 200px;
-    height: 2000px;
+    height: 2330px;
     padding-top: 20px;
     background-image: linear-gradient(rgba(53, 134, 121, 0.9) 85%, rgba(53, 134, 121, 0) 100%);
 }
@@ -251,7 +252,7 @@ a:hover {
     align-items: center;
     width: 1020px;
     height: 40px;  
-    background-image:  linear-gradient(to right, rgba(32, 2, 66, 0) 6%, rgba(3, 77, 95, 0.9) 70%);
+    background-image:  linear-gradient(to right, rgba(32, 2, 66, 0) 18%, rgba(3, 77, 95, 0.9) 70%);
     box-shadow: 5px 3px 5px -5px rgba(26, 39, 32, 0.9);
 }
 
